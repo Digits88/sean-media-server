@@ -1,0 +1,4 @@
+node_modules/
+img/
+npm-debug.log
+config.json
